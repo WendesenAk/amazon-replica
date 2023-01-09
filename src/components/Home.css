@@ -2,7 +2,7 @@
     width: 100%;
     object-fit: contain;
     z-index: -1;
-    margin-bottom: -320px;
+    margin-bottom: -220px;
 mask-image: linear-gradient(rgba(0, 0, 0, 1), 50%);
 }
 .home__row{

@@ -7,7 +7,7 @@ const stripe = require("stripe")(
 // - App config
 const app = express();
 // - Middlewares
-app.use(cors({ origin: true }));
+app.use(cors());
 app.use(express.json());
 app.get("/", (request, response) => response.status(200).send("hello world"));
 
