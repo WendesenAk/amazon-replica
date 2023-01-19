@@ -37,15 +37,14 @@
     margin-left: 10px;
     margin-right: 10px;
     color: white;
-    text-decoration: none;
 }
 
 .header__nav {
     display: flex;
     justify-content: space-evenly;
-        color: white;
-
+    color: white;
 }
+
 .header__optionLineOne {
     font-size: 12px;
 }
@@ -60,11 +59,11 @@
 }
 .header__basketCount {
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 10px; 
 }
-.header__clearLink {
+/* .header__clearLink {
     text-decoration: none;
-}
+} */
 
 
 
